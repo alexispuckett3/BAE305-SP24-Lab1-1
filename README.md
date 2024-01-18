@@ -12,6 +12,7 @@ The goal of this lab is to get us familiar with electrical components, such as r
 Through our work, we found that the labeled resistances were very similar to the resistances we measured using the DMM, and all except one were within the tolerance range. All of the labeled capacitances were very close to the capacitances we measured, and the measured voltages were close to the expected voltages of the function generator. 
 
 Design/Methods:
+
 In this lab, we were first given various types of resistors. We then had to determine what the expected resistance of each resistor should be as well as the tolerance that they fell between. After the chart was looked at we measured each resistor with the Fluke DMM. Using the tolerance that was listed on each resistor we then determined if the resistor's actual measurements fell within tolerance or not. We then stated it in further questions within the lab. 
 We then were given various capacitors. We also were told to state the expected capacitance and then measure them using the Fluke DMM. The DMM showed us that the measured values were close to the expected which we stated later in the lab questions as well. 
 Using our DC Power Supply we were expected to place it at varying voltages. Throughout changing the voltages we were expected to use the leads and determine the actual value of the voltages using the DMM. We found that the difference in the DMM and the Power Supply was small, and supported the stated values.
@@ -68,4 +69,5 @@ When we increase the frequency dramatically, the amplitude and the RMS value dec
 When we decrease the frequency dramatically, the amplitude and the RMS value decrease. 
 
 Conclusions:
+
 At the end of the lab, it can be seen and determined that the use and understanding of various instruments is understood and confirmed. By using the differing instruments to measure the same thing, we have gained the knowledge of using an oscilloscope, Fluke DMM, DC Power Supply, and a Function Generator. The knowledge that was obtained during this lab will be useful in future labs when asked to determine the actual current, voltage, resistance, and other measurements. It also helped give us the knowledge on how to use properly and understand each tool in more detail.
