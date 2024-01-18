@@ -15,17 +15,41 @@ Design/Methods:
 
 Results:
 
-| Variable | Value | Value | Value | Value |
+Labeled Resistance vs Measured Resistance With DMM
 |:---:|---|---|---|---|
 |   Labeled Resistance    | 120 k&Omega;   |  3.3 M&Omega;  |  2 k&Omega;    |  22 &Omega;   |
 |   Measured Resistance   | 120.4 k&Omega; |  3.5 M&Omega;  |  2.03 k&Omega; |  23.7 &Omega; |
 
+Do the resistors fall within their tolerance?
 
+
+Labeled Capacitance vs Measured Capacitance With DMM
 | Variable | Value | Value | Value | Value |
 |:---:|---|---|---|---|
 |   Labeled Capacitance  | 100 &mu;F   |  10 &mu;F     |  Blue       |  Yellow  |
 |   Measured Capacitance | 101.6 &mu;F |  10.19 &mu;F  |  10.4 nF    |  1.3 nF  |
-  
+
+Do the insturments agree with the expected value?
+
+Does the polarity affect the measurement of the electrolytic capacitor?
+
+
+Labeled Voltage vs Measured Voltage With DMM
+| Variable | Value | Value | Value | Value |
+|:---:|---|---|---|---|
+|   Labeled Voltage                    | 1.5 V   |  7.0 V   |  12 V    | 
+|   Measured Voltage at 1-20VDC Output | 1.49 V  |  7.0 V   |  12.01 V |  
+|  Measured Voltage at 3.3/5VDC Output | 5.18 V  |  5.18 V  |  5.18 V  |  
+|  Measured Voltage at 3.3/5VDC Output | 11.98 V |  11.99 V |  11.99 V |  
+
+Do the instruments agree with eachother? Why/why not?
+
+
+Amplitude and Frequency of Sinusoidal Wave Using Different Methods
+| Variable | Value | Value | Value | Value |
+|:---:|---|---|---|---|
+|   Labeled Capacitance  | 100 &mu;F   |  10 &mu;F     |  Blue       |  Yellow  |
+|   Measured Capacitance | 101.6 &mu;F |  10.19 &mu;F  |  10.4 nF    |  1.3 nF  |
 
 
 
