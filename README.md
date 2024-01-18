@@ -59,7 +59,7 @@ Amplitude and Frequency of Sinusoidal Wave Using Different Methods
 | Variable | Value | Value | 
 |:---:|---|---|
 |   Method           | Amplitude  |  Frequency |  
-|   Counting Squares | 6 V        |            | 
+|   Counting Squares | 6 V        |  2.22 kHz  | 
 |   Movable Cursors  | 6 V        |  2.22 kHz  | 
 |  Measure Features  | 6 V        |  2.28 kHz  | 
 |  Fluke DMM         | 4.167 V    |  2.29 kHz  | 
