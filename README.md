@@ -9,7 +9,7 @@ Project Summary:
 
 The goal of this lab is to get us familiar with electrical components, such as resistors and capacitors, along with oscilloscopes, multimeters, and function generators. We used the digital multimeter (DMM) to measure the resistance of the resistors, the capacitance of the capacitors, and the voltage of the voltage sources. We then used the oscilloscope and different methods to measure the amplitude and frequency of the voltage source with a resistor. Finally, we changed the frequency and amplitude to see how the sinusoidal wave on the oscilloscope changes and how the value on the DMM changes. 
 
-Through our work, we found that the labeled resistances were very similar to the resistances we measured using the DMM, and all except one were within the tolerance range. All of the labeled capacitances were very close to the capacitances we measured, and the measured voltages were close to the expected voltages of the function generator. 
+Through our work, we found that the labeled resistances were very similar to the resistances we measured using the DMM, and all except one were within the tolerance range. All of the labeled capacitances were very close to the capacitances we measured, and the measured voltages were close to the expected voltages of the function generator. Finally, the values that we measured using different methods with the oscilloscpe were all very similar, however, the amplitude value using the DMM strayed from the expected value because the DMM gives us the RMS value instead of amplitude.
 
 Design/Methods:
 
