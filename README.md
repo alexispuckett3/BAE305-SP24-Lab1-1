@@ -26,7 +26,7 @@ Do the resistors fall within their tolerance?
 
 
 Labeled Capacitance vs Measured Capacitance With DMM
-| Variable | Value | Value | Value | Value |
+|  |  |  | |  |
 |:---:|---|---|---|---|
 |   Labeled Capacitance  | 100 &mu;F   |  10 &mu;F     |  Blue       |  Yellow  |
 |   Measured Capacitance | 101.6 &mu;F |  10.19 &mu;F  |  10.4 nF    |  1.3 nF  |
