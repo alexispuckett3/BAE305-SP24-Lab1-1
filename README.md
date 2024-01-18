@@ -18,7 +18,12 @@ Results:
 | Variable | Value |
 |:---:|---|
 |   Labeled Resistance   | 120 k&Omega;   |  | 3.3 M&Omega;  |  | 2 k&Omega;    |  | 22 &Omega;   |
-|   Measured Resistanc   | 120.4 k&Omega; |  | 3.5 M&Omega;  |  | 2.03 k&Omega; |  | 23.7 &Omega; |
+|   Measured Resistance   | 120.4 k&Omega; |  | 3.5 M&Omega;  |  | 2.03 k&Omega; |  | 23.7 &Omega; |
+
+
+
+|   Labeled Capacitance  | 100 &Mu;F  |  | 3.3 M&Omega;  |  | 2 k&Omega;    |  | 22 &Omega;   |
+|   Measured Capacitance | 120.4 k&Omega; |  | 3.5 M&Omega;  |  | 2.03 k&Omega; |  | 23.7 &Omega; |
 
 
 
