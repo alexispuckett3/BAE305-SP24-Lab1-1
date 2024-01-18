@@ -17,8 +17,8 @@ Results:
 
 | Variable | Value | Value | Value | Value |
 |:---:|---|---|---|---|
-|   Labeled Resistance    | 120 k&Omega;   |  | 3.3 M&Omega;  |  | 2 k&Omega;    |  | 22 &Omega;   |
-|   Measured Resistance   | 120.4 k&Omega; |  | 3.5 M&Omega;  |  | 2.03 k&Omega; |  | 23.7 &Omega; |
+|   Labeled Resistance    | 120 k&Omega;   |  3.3 M&Omega;  |  2 k&Omega;    |  22 &Omega;   |
+|   Measured Resistance   | 120.4 k&Omega; |  3.5 M&Omega;  |  2.03 k&Omega; |  23.7 &Omega; |
 
 
 
