@@ -37,7 +37,7 @@ Does the polarity affect the measurement of the electrolytic capacitor?
 
 Labeled Voltage vs Measured Voltage With DMM
 | Variable | Value | Value | Value | 
-|:---:|---|---|---|---|
+|:---:|---|---|---|
 |   Labeled Voltage                    | 1.5 V   |  7.0 V   |  12 V    | 
 |   Measured Voltage at 1-20VDC Output | 1.49 V  |  7.0 V   |  12.01 V |  
 |  Measured Voltage at 3.3/5VDC Output | 5.18 V  |  5.18 V  |  5.18 V  |  
@@ -47,8 +47,8 @@ Do the instruments agree with eachother? Why/why not?
 
 
 Amplitude and Frequency of Sinusoidal Wave Using Different Methods
-| Variable | Value | Value | Value | Value |
-|:---:|---|---|---|---|
+| Variable | Value | Value | 
+|:---:|---|---|
 |   Method           | Amplitude  |  Frequency |  
 |   Counting Squares | 6 V        |            | 
 |   Movable Cursors  | 6 V        |  2.22 kHz  | 
