@@ -36,7 +36,7 @@ Does the polarity affect the measurement of the electrolytic capacitor?
 
 
 Labeled Voltage vs Measured Voltage With DMM
-| Variable | Value | Value | Value | Value |
+| Variable | Value | Value | Value | 
 |:---:|---|---|---|---|
 |   Labeled Voltage                    | 1.5 V   |  7.0 V   |  12 V    | 
 |   Measured Voltage at 1-20VDC Output | 1.49 V  |  7.0 V   |  12.01 V |  
@@ -49,8 +49,16 @@ Do the instruments agree with eachother? Why/why not?
 Amplitude and Frequency of Sinusoidal Wave Using Different Methods
 | Variable | Value | Value | Value | Value |
 |:---:|---|---|---|---|
-|   Labeled Capacitance  | 100 &mu;F   |  10 &mu;F     |  Blue       |  Yellow  |
-|   Measured Capacitance | 101.6 &mu;F |  10.19 &mu;F  |  10.4 nF    |  1.3 nF  |
+|   Method           | Amplitude  |  Frequency |  
+|   Counting Squares | 6 V        |            | 
+|   Movable Cursors  | 6 V        |  2.22 kHz  | 
+|  Measure Features  | 6 V        |  2.28 kHz  | 
+|  Fluke DMM         | 4.167 V    |  2.29 kHz  | 
+
+Do the instruments agree? Why/why not?
+
+Change the frequency and amplitude and observe what happens to the sinusoidal wave and the value on the DMM.
 
 
+Conclusions:
 
