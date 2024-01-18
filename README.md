@@ -31,7 +31,7 @@ Labeled Capacitance vs Measured Capacitance With DMM
 |   Labeled Capacitance  | 100 &mu;F   |  10 &mu;F     |  Blue       |  Yellow  |
 |   Measured Capacitance | 101.6 &mu;F |  10.19 &mu;F  |  10.4 nF    |  1.3 nF  |
 
-Do the insturments agree with the expected value?
+Do the instruments agree with the expected value?
 
 Does the polarity affect the measurement of the electrolytic capacitor?
 
