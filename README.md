@@ -15,15 +15,15 @@ Design/Methods:
 
 Results:
 
-| Variable | Value |
-|:---:|---|
-|   Labeled Resistance   | 120 k&Omega;   |  | 3.3 M&Omega;  |  | 2 k&Omega;    |  | 22 &Omega;   |
+| Variable | Value | Value | Value | Value |
+|:---:|---|---|---|---|
+|   Labeled Resistance    | 120 k&Omega;   |  | 3.3 M&Omega;  |  | 2 k&Omega;    |  | 22 &Omega;   |
 |   Measured Resistance   | 120.4 k&Omega; |  | 3.5 M&Omega;  |  | 2.03 k&Omega; |  | 23.7 &Omega; |
 
 
 
-|   Labeled Capacitance  | 100 &Mu;F  |  | 3.3 M&Omega;  |  | 2 k&Omega;    |  | 22 &Omega;   |
-|   Measured Capacitance | 120.4 k&Omega; |  | 3.5 M&Omega;  |  | 2.03 k&Omega; |  | 23.7 &Omega; |
+|   Labeled Capacitance  | 100 &mu;F   |  | 10 &mu;F     |  | Blue       |  | Yellow  |
+|   Measured Capacitance | 101.6 &mu;F |  | 10.19 &mu;F  |  | 10.4 nF    |  | 1.3 nF  |
 
 
 
